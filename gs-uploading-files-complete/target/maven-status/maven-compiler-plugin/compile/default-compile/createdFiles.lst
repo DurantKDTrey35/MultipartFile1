@@ -1,0 +1,8 @@
+hello\FileUploadController.class
+hello\storage\StorageException.class
+hello\storage\StorageProperties.class
+hello\storage\StorageFileNotFoundException.class
+hello\Application.class
+hello\storage\FileSystemStorageService.class
+META-INF\spring-configuration-metadata.json
+hello\storage\StorageService.class
